@@ -1,5 +1,6 @@
 # odin-recipes
 
+This project is a practice of the material learned in Odin's project, of the following skills:
 
 1. Adding different sizes headings
 2. Adding links with absolute and perspective paths.
