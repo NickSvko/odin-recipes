@@ -7,3 +7,5 @@ This project is a practice of the material learned in Odin's project, of the fol
 3. Adding img to a webpage
 4. Using paragraphs
 5. Using unordered / ordered lists
+
+The project: https://nicksvko.github.io/odin-recipes/
