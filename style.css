@@ -1,0 +1,72 @@
+/* All */
+body{
+    font-family: Monaco, Monospace;
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: auto;
+}
+ul, ol, div, h2{
+    text-align: left;
+}
+
+
+/* All links in index.html */
+a{
+    display: block;
+    font-weight: bold;
+    text-align: center;
+}
+/* Sweet-potato image in index.html*/
+#potato-img{
+    height: 225px;
+}
+
+
+/*Cranberry-sauce link in index.html,and all titles in cranberry-sauce.html */
+.cranberry{
+    color: rgb(228, 139, 139);
+}
+/* cranberry-sauce.html main title */
+h1.cranberry{
+    color:white;
+    background-color:rgb(228, 139, 139);
+}
+/* cranberry-sauce.html image */
+#cranberry-main-img{
+    width: 500px;
+    height: auto;
+}
+
+
+/* 'Sweet potato casserole' link in index.html,and all titles in sweet-potato-casserole.html */
+.sweet-potato{
+    color: rgb(255, 152, 17);
+}
+/* sweet-potato-casserole.html main title */
+h1.sweet-potato{
+    color:white;
+    background-color: rgb(255, 152, 17);
+}
+/* sweet-potato-casserole.html main image */
+#potato-main-img{
+    width: 500px;
+    height: auto;
+}
+
+
+/* 'Stuffed mushrooms' link in index.html,and all titles in stuffed-mushrooms.html */
+.mushrooms{
+    color: brown;
+}
+/* stuffed-mushrooms.html main title */
+h1.mushrooms{
+    color:white;
+    background-color: brown;
+}
+/* stuffed-mushrooms.html main image */
+#mushrooms-main-img{
+    width: 500px;
+    height: auto;
+}
