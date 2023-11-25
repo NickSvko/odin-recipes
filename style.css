@@ -12,19 +12,7 @@ ul, ol, div, h2{
 }
 
 
-/* All links in index.html */
-a{
-    display: block;
-    font-weight: bold;
-    text-align: center;
-}
-/* Sweet-potato image in index.html*/
-#potato-img{
-    height: 225px;
-}
-
-
-/*Cranberry-sauce link in index.html,and all titles in cranberry-sauce.html */
+/* All titles in cranberry-sauce.html */
 .cranberry{
     color: rgb(228, 139, 139);
 }
@@ -40,7 +28,7 @@ h1.cranberry{
 }
 
 
-/* 'Sweet potato casserole' link in index.html,and all titles in sweet-potato-casserole.html */
+/* All titles in sweet-potato-casserole.html */
 .sweet-potato{
     color: rgb(255, 152, 17);
 }
@@ -56,7 +44,7 @@ h1.sweet-potato{
 }
 
 
-/* 'Stuffed mushrooms' link in index.html,and all titles in stuffed-mushrooms.html */
+/* All titles in stuffed-mushrooms.html */
 .mushrooms{
     color: brown;
 }
@@ -70,3 +58,28 @@ h1.mushrooms{
     width: 500px;
     height: auto;
 }
+
+.links {
+    list-style: none;
+}
+.links a {
+    text-decoration: none;
+    color: #EEEEEE;
+    padding: 30px;
+}
+.links div {
+    padding: 30px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.cranberry-link {
+    background-color: #548CA8;
+}
+.mushrooms-link {
+    background-color: #476072;
+}
+.potato-link {
+    background-color: #334257;
+}
+
